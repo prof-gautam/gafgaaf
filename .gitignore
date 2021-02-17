@@ -6,8 +6,6 @@ node_modules/
 .vscode/
 
 # Misc
-.env
-.DS_Store
 
 # Package manager
 npm-debug.log*
